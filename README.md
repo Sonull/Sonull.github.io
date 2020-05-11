@@ -1,3 +1,4 @@
 # sonal.cc
 
-My portfolio website. Head over to sonal.cc to check it out!
+Click on the below link to check out my portfolio.
+https://sonal.cc/
