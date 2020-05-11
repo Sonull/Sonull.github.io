@@ -1,4 +1,3 @@
-# sonal.cc
+# PORTFOLIO WEBSITE
 
-Click on the below link to check out my portfolio.
-https://sonal.cc/
+I have a portfolio website where I share my qualifications, my background, summary of the projects done as well as my resume. Click on this link to check it out: https://sonal.cc/
